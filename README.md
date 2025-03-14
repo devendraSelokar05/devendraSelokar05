@@ -19,7 +19,7 @@
 </div>
 
 
-<h3 align="center">🚀 Full Stack Developer |  Problem Solve</h3>
+<h3 align="center">🚀 Full Stack Developer |  Problem Solver</h3>
 <h4 align="center">Building digital experiences that matter</h4>
 
 <p align="center">
